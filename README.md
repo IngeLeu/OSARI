@@ -1,6 +1,7 @@
 # OSARI
  Open-Source Anticipated Response Inhibition task (OSARI)
 
+Note: this package is currently under development.
 
 Written by Rebecca J Hirst[1] and Rohan Puri[2]
 Edited by Jason L He[3]
@@ -25,8 +26,6 @@ He, J. L., Fuelscher, I., Coxon, J., Barhoun, P., Parmar, D., Enticott, P. G., &
 Impaired motor inhibition in developmental coordination disorder. Brain and Cognition, 127(August),
 23-33. http://doi.org/10.1016/j.bandc.2018.09.002
 
-
-Known Bugs:
     
 Input (optional):
     
