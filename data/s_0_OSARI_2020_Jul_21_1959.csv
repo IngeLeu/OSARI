@@ -1,0 +1,2 @@
+﻿Signal,Block.thisRepN,Block.thisTrialN,Block.thisN,Block.thisIndex,practiceGoTrials.thisRepN,practiceGoTrials.thisTrialN,practiceGoTrials.thisN,practiceGoTrials.thisIndex,block,trialType,trial,signal,response,ssd,rt,Practice trials,Count down,Trial by trial feedback,Method,Trial order,Step size (s),Lowest SSD (s),Highest SSD (s),Total bar height (in cm),Number of Test Blocks,Spaceship,Full Screen,
+0,0,0,0,0,0,0,0,3,1,practiceGoTrials,1,0,1,NaN,0.8029614900005981,True,True,True,staircase,random,0.025,0.05,0.775,15,3,False,True,

@@ -1,0 +1,2 @@
+block	trialType	trial	signal	response	ssd	rt
+1	practiceGoTrials	1	0	1	NaN	0.7935043210163713

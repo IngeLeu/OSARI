@@ -1,0 +1,5 @@
+block	trialType	trial	signal	response	ssd	rt
+block	trialType	trial	signal	response	ssd	rt
+1	testBlocks	1	0	1	NaN	0.6046630529999675
+2	testBlocks	1	0	1	NaN	0.5302776699991227
+3	testBlocks	1	0	1	NaN	0.4910928640001657

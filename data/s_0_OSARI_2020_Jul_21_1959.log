@@ -1,0 +1,366 @@
+9.1738 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [1920, 1080]. Using actual size
+10.2254 	DEBUG 	Read csv file with pandas: TestConditions.csv
+10.2275 	DEBUG 	Clearing unnamed columns from TestConditions.csv
+10.2289 	EXP 	Imported TestConditions.csv as conditions, 64 conditions, 1 params
+10.2310 	DEBUG 	Read csv file with pandas: practiceGoConditions.csv
+10.2320 	DEBUG 	Clearing unnamed columns from practiceGoConditions.csv
+10.2323 	EXP 	Imported practiceGoConditions.csv as conditions, 5 conditions, 1 params
+10.2340 	DEBUG 	Read csv file with pandas: practiceMixedConditions.csv
+10.2350 	DEBUG 	Clearing unnamed columns from practiceMixedConditions.csv
+10.2354 	EXP 	Imported practiceMixedConditions.csv as conditions, 10 conditions, 1 params
+10.2358 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+10.4290 	DEBUG 	Using /Users/rpuri/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+10.5371 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='Do you understand the task? (Y/N)', units='cm', win=Window(...), wrapWidth=15.0)
+10.5513 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.5613 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.6878 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/instr_image.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([42.1875   , 26.3671875]), texRes=128, units='cm', win=Window(...))
+10.7483 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/instr_image_SS.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([42.1875   , 26.3671875]), texRes=128, units='cm', win=Window(...))
+10.7676 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.7724 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='First lets practice!', units='cm', win=Window(...), wrapWidth=15.0)
+10.7775 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.7845 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.7892 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='Oops! You held the \nbutton for too long', units='cm', win=Window(...), wrapWidth=15.0)
+10.7946 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+10.8003 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='Correct!\nYou withheld your response', units='cm', win=Window(...), wrapWidth=15.0)
+10.8071 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='WrongKey - Please press the space key', units='cm', win=Window(...), wrapWidth=15.0)
+10.8105 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 4.5]), rgb=array([-1., -1., -1.]), text='1', units='cm', win=Window(...), wrapWidth=15.0)
+10.8115 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='skyblue', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.8123 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='white', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.8131 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='yellow', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.8140 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='yellow', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.8183 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/SpaceShip_scaled.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 0.  , -7.49]), size=array([5.21484375, 1.20117188]), texRes=128, units='cm', win=Window(...))
+10.8244 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/Practice_Image.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([10.,  0.]), size=array([ 6.15234375, 10.16601562]), texRes=128, units='cm', win=Window(...))
+12.0088 	DATA 	Keypress: space
+12.0908 	DATA 	Keypress: space
+12.0916 	EXP 	New trial (rep=0, index=0): None
+12.0919 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+12.0924 	DEBUG 	Using /Users/rpuri/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+12.0929 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 0)])
+12.1004 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+12.1004 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+12.7838 	DATA 	Keypress: space
+13.1544 	DATA 	Keypress: space
+13.1668 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+13.1668 	EXP 	unnamed TextStim: text = '3'
+13.1840 	EXP 	unnamed TextStim: text = '3'
+13.2007 	EXP 	unnamed TextStim: text = '3'
+13.2173 	EXP 	unnamed TextStim: text = '3'
+13.2344 	EXP 	unnamed TextStim: text = '3'
+13.2505 	EXP 	unnamed TextStim: text = '3'
+13.2668 	EXP 	unnamed TextStim: text = '3'
+13.2840 	EXP 	unnamed TextStim: text = '3'
+14.0317 	DATA 	Keypress: space
+14.0673 	EXP 	unnamed TextStim: text = '3'
+14.0840 	EXP 	unnamed TextStim: text = '3'
+14.1006 	EXP 	unnamed TextStim: text = '3'
+14.1173 	EXP 	unnamed TextStim: text = '3'
+14.1339 	EXP 	unnamed TextStim: text = '3'
+14.1508 	EXP 	unnamed TextStim: text = '3'
+14.1673 	EXP 	unnamed TextStim: text = '3'
+14.1843 	EXP 	unnamed TextStim: text = '3'
+14.2006 	EXP 	unnamed TextStim: text = '3'
+14.2173 	EXP 	unnamed TextStim: text = '3'
+14.2340 	EXP 	unnamed TextStim: text = '3'
+14.2508 	EXP 	unnamed TextStim: text = '3'
+14.2673 	EXP 	unnamed TextStim: text = '3'
+14.2839 	EXP 	unnamed TextStim: text = '3'
+14.3007 	EXP 	unnamed TextStim: text = '3'
+14.3174 	EXP 	unnamed TextStim: text = '3'
+14.3341 	EXP 	unnamed TextStim: text = '3'
+14.3508 	EXP 	unnamed TextStim: text = '3'
+14.3673 	EXP 	unnamed TextStim: text = '3'
+14.3840 	EXP 	unnamed TextStim: text = '3'
+14.4007 	EXP 	unnamed TextStim: text = '3'
+14.4174 	EXP 	unnamed TextStim: text = '3'
+14.4340 	EXP 	unnamed TextStim: text = '3'
+14.4506 	EXP 	unnamed TextStim: text = '3'
+14.4673 	EXP 	unnamed TextStim: text = '3'
+14.4840 	EXP 	unnamed TextStim: text = '3'
+14.5007 	EXP 	unnamed TextStim: text = '3'
+14.5173 	EXP 	unnamed TextStim: text = '3'
+14.5341 	EXP 	unnamed TextStim: text = '3'
+14.5507 	EXP 	unnamed TextStim: text = '3'
+14.5673 	EXP 	unnamed TextStim: text = '3'
+14.5840 	EXP 	unnamed TextStim: text = '3'
+14.6007 	EXP 	unnamed TextStim: text = '3'
+14.6176 	EXP 	unnamed TextStim: text = '3'
+14.6340 	EXP 	unnamed TextStim: text = '3'
+14.6505 	EXP 	unnamed TextStim: text = '3'
+14.6674 	EXP 	unnamed TextStim: text = '3'
+14.6840 	EXP 	unnamed TextStim: text = '3'
+14.7010 	EXP 	unnamed TextStim: text = '3'
+14.7174 	EXP 	unnamed TextStim: text = '3'
+14.7340 	EXP 	unnamed TextStim: text = '3'
+14.7507 	EXP 	unnamed TextStim: text = '3'
+14.7673 	EXP 	unnamed TextStim: text = '3'
+14.7844 	EXP 	unnamed TextStim: text = '3'
+14.8007 	EXP 	unnamed TextStim: text = '3'
+14.8174 	EXP 	unnamed TextStim: text = '3'
+14.8340 	EXP 	unnamed TextStim: text = '3'
+14.8507 	EXP 	unnamed TextStim: text = '3'
+14.8676 	EXP 	unnamed TextStim: text = '3'
+14.8840 	EXP 	unnamed TextStim: text = '3'
+14.9007 	EXP 	unnamed TextStim: text = '3'
+14.9173 	EXP 	unnamed TextStim: text = '3'
+14.9340 	EXP 	unnamed TextStim: text = '3'
+14.9510 	EXP 	unnamed TextStim: text = '3'
+14.9672 	EXP 	unnamed TextStim: text = '3'
+14.9840 	EXP 	unnamed TextStim: text = '3'
+15.0006 	EXP 	unnamed TextStim: text = '3'
+15.0174 	EXP 	unnamed TextStim: text = '3'
+15.0343 	EXP 	unnamed TextStim: text = '3'
+15.0507 	EXP 	unnamed TextStim: text = '2'
+15.0675 	EXP 	unnamed TextStim: text = '2'
+15.0840 	EXP 	unnamed TextStim: text = '2'
+15.1007 	EXP 	unnamed TextStim: text = '2'
+15.1177 	EXP 	unnamed TextStim: text = '2'
+15.1339 	EXP 	unnamed TextStim: text = '2'
+15.1507 	EXP 	unnamed TextStim: text = '2'
+15.1674 	EXP 	unnamed TextStim: text = '2'
+15.1840 	EXP 	unnamed TextStim: text = '2'
+15.2010 	EXP 	unnamed TextStim: text = '2'
+15.2174 	EXP 	unnamed TextStim: text = '2'
+15.2334 	EXP 	unnamed TextStim: text = '2'
+15.2506 	EXP 	unnamed TextStim: text = '2'
+15.2668 	EXP 	unnamed TextStim: text = '2'
+15.2841 	EXP 	unnamed TextStim: text = '2'
+15.3006 	EXP 	unnamed TextStim: text = '2'
+15.3174 	EXP 	unnamed TextStim: text = '2'
+15.3339 	EXP 	unnamed TextStim: text = '2'
+15.3504 	EXP 	unnamed TextStim: text = '2'
+15.3674 	EXP 	unnamed TextStim: text = '2'
+15.3836 	EXP 	unnamed TextStim: text = '2'
+15.4005 	EXP 	unnamed TextStim: text = '2'
+15.4168 	EXP 	unnamed TextStim: text = '2'
+15.4337 	EXP 	unnamed TextStim: text = '2'
+15.4507 	EXP 	unnamed TextStim: text = '2'
+15.4668 	EXP 	unnamed TextStim: text = '2'
+15.4836 	EXP 	unnamed TextStim: text = '2'
+15.5001 	EXP 	unnamed TextStim: text = '2'
+15.5169 	EXP 	unnamed TextStim: text = '2'
+15.5339 	EXP 	unnamed TextStim: text = '2'
+15.5506 	EXP 	unnamed TextStim: text = '2'
+15.5673 	EXP 	unnamed TextStim: text = '2'
+15.5840 	EXP 	unnamed TextStim: text = '2'
+15.6007 	EXP 	unnamed TextStim: text = '2'
+15.6176 	EXP 	unnamed TextStim: text = '2'
+15.6339 	EXP 	unnamed TextStim: text = '2'
+15.6502 	EXP 	unnamed TextStim: text = '2'
+15.6671 	EXP 	unnamed TextStim: text = '2'
+15.6837 	EXP 	unnamed TextStim: text = '2'
+15.7004 	EXP 	unnamed TextStim: text = '2'
+15.7170 	EXP 	unnamed TextStim: text = '2'
+15.7335 	EXP 	unnamed TextStim: text = '2'
+15.7503 	EXP 	unnamed TextStim: text = '2'
+15.7670 	EXP 	unnamed TextStim: text = '2'
+15.7836 	EXP 	unnamed TextStim: text = '2'
+15.8001 	EXP 	unnamed TextStim: text = '2'
+15.8172 	EXP 	unnamed TextStim: text = '2'
+15.8334 	EXP 	unnamed TextStim: text = '2'
+15.8505 	EXP 	unnamed TextStim: text = '2'
+15.8673 	EXP 	unnamed TextStim: text = '2'
+15.8835 	EXP 	unnamed TextStim: text = '2'
+15.9006 	EXP 	unnamed TextStim: text = '2'
+15.9173 	EXP 	unnamed TextStim: text = '2'
+15.9335 	EXP 	unnamed TextStim: text = '2'
+15.9505 	EXP 	unnamed TextStim: text = '2'
+15.9668 	EXP 	unnamed TextStim: text = '2'
+15.9838 	EXP 	unnamed TextStim: text = '2'
+16.0006 	EXP 	unnamed TextStim: text = '2'
+16.0168 	EXP 	unnamed TextStim: text = '2'
+16.0341 	EXP 	unnamed TextStim: text = '2'
+16.0504 	EXP 	unnamed TextStim: text = '1'
+16.0671 	EXP 	unnamed TextStim: text = '1'
+16.0836 	EXP 	unnamed TextStim: text = '1'
+16.1006 	EXP 	unnamed TextStim: text = '1'
+16.1170 	EXP 	unnamed TextStim: text = '1'
+16.1340 	EXP 	unnamed TextStim: text = '1'
+16.1505 	EXP 	unnamed TextStim: text = '1'
+16.1673 	EXP 	unnamed TextStim: text = '1'
+16.1840 	EXP 	unnamed TextStim: text = '1'
+16.2009 	EXP 	unnamed TextStim: text = '1'
+16.2173 	EXP 	unnamed TextStim: text = '1'
+16.2340 	EXP 	unnamed TextStim: text = '1'
+16.2506 	EXP 	unnamed TextStim: text = '1'
+16.2673 	EXP 	unnamed TextStim: text = '1'
+16.2843 	EXP 	unnamed TextStim: text = '1'
+16.3006 	EXP 	unnamed TextStim: text = '1'
+16.3173 	EXP 	unnamed TextStim: text = '1'
+16.3340 	EXP 	unnamed TextStim: text = '1'
+16.3507 	EXP 	unnamed TextStim: text = '1'
+16.3675 	EXP 	unnamed TextStim: text = '1'
+16.3840 	EXP 	unnamed TextStim: text = '1'
+16.4006 	EXP 	unnamed TextStim: text = '1'
+16.4173 	EXP 	unnamed TextStim: text = '1'
+16.4340 	EXP 	unnamed TextStim: text = '1'
+16.4510 	EXP 	unnamed TextStim: text = '1'
+16.4673 	EXP 	unnamed TextStim: text = '1'
+16.4840 	EXP 	unnamed TextStim: text = '1'
+16.5006 	EXP 	unnamed TextStim: text = '1'
+16.5173 	EXP 	unnamed TextStim: text = '1'
+16.5342 	EXP 	unnamed TextStim: text = '1'
+16.5506 	EXP 	unnamed TextStim: text = '1'
+16.5673 	EXP 	unnamed TextStim: text = '1'
+16.5840 	EXP 	unnamed TextStim: text = '1'
+16.6007 	EXP 	unnamed TextStim: text = '1'
+16.6177 	EXP 	unnamed TextStim: text = '1'
+16.6341 	EXP 	unnamed TextStim: text = '1'
+16.6507 	EXP 	unnamed TextStim: text = '1'
+16.6673 	EXP 	unnamed TextStim: text = '1'
+16.6841 	EXP 	unnamed TextStim: text = '1'
+16.7010 	EXP 	unnamed TextStim: text = '1'
+16.7173 	EXP 	unnamed TextStim: text = '1'
+16.7340 	EXP 	unnamed TextStim: text = '1'
+16.7507 	EXP 	unnamed TextStim: text = '1'
+16.7674 	EXP 	unnamed TextStim: text = '1'
+16.7844 	EXP 	unnamed TextStim: text = '1'
+16.8007 	EXP 	unnamed TextStim: text = '1'
+16.8174 	EXP 	unnamed TextStim: text = '1'
+16.8342 	EXP 	unnamed TextStim: text = '1'
+16.8507 	EXP 	unnamed TextStim: text = '1'
+16.8678 	EXP 	unnamed TextStim: text = '1'
+16.8840 	EXP 	unnamed TextStim: text = '1'
+16.9007 	EXP 	unnamed TextStim: text = '1'
+16.9172 	EXP 	unnamed TextStim: text = '1'
+16.9341 	EXP 	unnamed TextStim: text = '1'
+16.9509 	EXP 	unnamed TextStim: text = '1'
+16.9674 	EXP 	unnamed TextStim: text = '1'
+16.9837 	EXP 	unnamed TextStim: text = '1'
+17.0002 	EXP 	unnamed TextStim: text = '1'
+17.0170 	EXP 	unnamed TextStim: text = '1'
+17.0339 	EXP 	unnamed TextStim: text = '1'
+17.0502 	EXP 	unnamed TextStim: text = '0'
+17.0670 	EXP 	unnamed TextStim: text = '0'
+17.0840 	EXP 	unnamed TextStim: text = '0'
+17.1005 	EXP 	unnamed TextStim: text = '0'
+17.1177 	EXP 	unnamed TextStim: text = '0'
+17.1339 	EXP 	unnamed TextStim: text = '0'
+17.1507 	EXP 	unnamed TextStim: text = '0'
+17.1673 	EXP 	unnamed TextStim: text = '0'
+17.1841 	EXP 	unnamed TextStim: text = '0'
+17.2009 	EXP 	unnamed TextStim: text = '0'
+17.2173 	EXP 	unnamed TextStim: text = '0'
+17.2340 	EXP 	unnamed TextStim: text = '0'
+17.2506 	EXP 	unnamed TextStim: text = '0'
+17.2674 	EXP 	unnamed TextStim: text = '0'
+17.2842 	EXP 	unnamed TextStim: text = '0'
+17.3008 	EXP 	unnamed TextStim: text = '0'
+17.3174 	EXP 	unnamed TextStim: text = '0'
+17.3340 	EXP 	unnamed TextStim: text = '0'
+17.3507 	EXP 	unnamed TextStim: text = '0'
+17.3676 	EXP 	unnamed TextStim: text = '0'
+17.3839 	EXP 	unnamed TextStim: text = '0'
+17.4006 	EXP 	unnamed TextStim: text = '0'
+17.4173 	EXP 	unnamed TextStim: text = '0'
+17.4340 	EXP 	unnamed TextStim: text = '0'
+17.4510 	EXP 	unnamed TextStim: text = '0'
+17.4673 	EXP 	unnamed TextStim: text = '0'
+17.4840 	EXP 	unnamed TextStim: text = '0'
+17.5007 	EXP 	unnamed TextStim: text = '0'
+17.5174 	EXP 	unnamed TextStim: text = '0'
+17.5344 	EXP 	unnamed TextStim: text = '0'
+17.5506 	EXP 	unnamed TextStim: text = '0'
+17.5674 	EXP 	unnamed TextStim: text = '0'
+17.5839 	EXP 	unnamed TextStim: text = '0'
+17.6007 	EXP 	unnamed TextStim: text = '0'
+17.6177 	EXP 	unnamed TextStim: text = '0'
+17.6341 	EXP 	unnamed TextStim: text = '0'
+17.6507 	EXP 	unnamed TextStim: text = '0'
+17.6673 	EXP 	unnamed TextStim: text = '0'
+17.6840 	EXP 	unnamed TextStim: text = '0'
+17.7010 	EXP 	unnamed TextStim: text = '0'
+17.7174 	EXP 	unnamed TextStim: text = '0'
+17.7340 	EXP 	unnamed TextStim: text = '0'
+17.7506 	EXP 	unnamed TextStim: text = '0'
+17.7673 	EXP 	unnamed TextStim: text = '0'
+17.7843 	EXP 	unnamed TextStim: text = '0'
+17.8007 	EXP 	unnamed TextStim: text = '0'
+17.8173 	EXP 	unnamed TextStim: text = '0'
+17.8341 	EXP 	unnamed TextStim: text = '0'
+17.8506 	EXP 	unnamed TextStim: text = '0'
+17.8675 	EXP 	unnamed TextStim: text = '0'
+17.8840 	EXP 	unnamed TextStim: text = '0'
+17.9004 	EXP 	unnamed TextStim: text = '0'
+17.9172 	EXP 	unnamed TextStim: text = '0'
+17.9340 	EXP 	unnamed TextStim: text = '0'
+17.9510 	EXP 	unnamed TextStim: text = '0'
+17.9673 	EXP 	unnamed TextStim: text = '0'
+17.9840 	EXP 	unnamed TextStim: text = '0'
+18.0007 	EXP 	unnamed TextStim: text = '0'
+18.0173 	EXP 	unnamed TextStim: text = '0'
+18.0344 	EXP 	unnamed TextStim: text = '0'
+18.0347 	EXP 	window1: recordFrameIntervals = True
+18.0507 	EXP 	unnamed ShapeStim: autoDraw = True
+18.0507 	EXP 	unnamed ShapeStim: autoDraw = True
+18.0507 	EXP 	unnamed ShapeStim: autoDraw = True
+18.0507 	EXP 	unnamed ShapeStim: autoDraw = True
+18.0674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.485242794975639), (1.5, -7.485242794975639), (1.5, -7.5)]
+18.0841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.235687675022055), (1.5, -7.235687675022055), (1.5, -7.5)]
+18.1007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.984492695084773), (1.5, -6.984492695084773), (1.5, -7.5)]
+18.1177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.736423475269694), (1.5, -6.736423475269694), (1.5, -7.5)]
+18.1339 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.480538640209707), (1.5, -6.480538640209707), (1.5, -7.5)]
+18.1507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.239064725270728), (1.5, -6.239064725270728), (1.5, -7.5)]
+18.1673 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.985941345317988), (1.5, -5.985941345317988), (1.5, -7.5)]
+18.1841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.735733244984877), (1.5, -5.735733244984877), (1.5, -7.5)]
+18.2011 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.485214300026419), (1.5, -5.485214300026419), (1.5, -7.5)]
+18.2173 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.229145249943249), (1.5, -5.229145249943249), (1.5, -7.5)]
+18.2341 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.987088119998807), (1.5, -4.987088119998807), (1.5, -7.5)]
+18.2507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.734853670126759), (1.5, -4.734853670126759), (1.5, -7.5)]
+18.2674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.487489795321599), (1.5, -4.487489795321599), (1.5, -7.5)]
+18.2845 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.234084175297758), (1.5, -4.234084175297758), (1.5, -7.5)]
+18.3007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.9776456002821217), (1.5, -3.9776456002821217), (1.5, -7.5)]
+18.3175 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.7357638503110504), (1.5, -3.7357638503110504), (1.5, -7.5)]
+18.3341 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.4829985500639307), (1.5, -3.4829985500639307), (1.5, -7.5)]
+18.3508 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.2342410703515636), (1.5, -3.2342410703515636), (1.5, -7.5)]
+18.3674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.9840370199619795), (1.5, -2.9840370199619795), (1.5, -7.5)]
+18.3841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.7355296501284467), (1.5, -2.7355296501284467), (1.5, -7.5)]
+18.4008 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.4840673250239345), (1.5, -2.4840673250239345), (1.5, -7.5)]
+18.4174 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.2352568201697434), (1.5, -2.2352568201697434), (1.5, -7.5)]
+18.4340 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.9846783252817115), (1.5, -1.9846783252817115), (1.5, -7.5)]
+18.4511 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.735837700145785), (1.5, -1.735837700145785), (1.5, -7.5)]
+18.4674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.4792903751751876), (1.5, -1.4792903751751876), (1.5, -7.5)]
+18.4841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.2358974501350897), (1.5, -1.2358974501350897), (1.5, -7.5)]
+18.5007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9846369953104297), (1.5, -0.9846369953104297), (1.5, -7.5)]
+18.5174 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.7353696950688029), (1.5, -0.7353696950688029), (1.5, -7.5)]
+18.5344 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.48537350016180447), (1.5, -0.48537350016180447), (1.5, -7.5)]
+18.5507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.22951422510435826), (1.5, -0.22951422510435826), (1.5, -7.5)]
+18.5674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.01469784979941302), (1.5, 0.01469784979941302), (1.5, -7.5)]
+18.5842 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.2639615047862751), (1.5, 0.2639615047862751), (1.5, -7.5)]
+18.6007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.5159224300202911), (1.5, 0.5159224300202911), (1.5, -7.5)]
+18.6178 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.7646579797053707), (1.5, 0.7646579797053707), (1.5, -7.5)]
+18.6342 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.0216053248930255), (1.5, 1.0216053248930255), (1.5, -7.5)]
+18.6508 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.2655955500283742), (1.5, 1.2655955500283742), (1.5, -7.5)]
+18.6674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.514923029715428), (1.5, 1.514923029715428), (1.5, -7.5)]
+18.6841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.7639469247276427), (1.5, 1.7639469247276427), (1.5, -7.5)]
+18.7011 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.014791549843503), (1.5, 2.014791549843503), (1.5, -7.5)]
+18.7175 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.2705248999025205), (1.5, 2.2705248999025205), (1.5, -7.5)]
+18.7340 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.515629804654745), (1.5, 2.515629804654745), (1.5, -7.5)]
+18.7507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.7640072746342046), (1.5, 2.7640072746342046), (1.5, -7.5)]
+18.7674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.0143357050453776), (1.5, 3.0143357050453776), (1.5, -7.5)]
+18.7844 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.2637685749412046), (1.5, 3.2637685749412046), (1.5, -7.5)]
+18.8007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.5205708547052925), (1.5, 3.5205708547052925), (1.5, -7.5)]
+18.8174 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.7647829750110393), (1.5, 3.7647829750110393), (1.5, -7.5)]
+18.8342 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 4.014866004688665), (1.5, 4.014866004688665), (1.5, -7.5)]
+18.8507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 4.275724854922155), (1.5, 4.275724854922155), (1.5, -7.5)]
+18.8674 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 4.514928279930027), (1.5, 4.514928279930027), (1.5, -7.5)]
+18.8840 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 4.76593659968581), (1.5, 4.76593659968581), (1.5, -7.5)]
+18.8841 	EXP 	window1: recordFrameIntervals = False
+18.8841 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.8921 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='You stopped the bar \n 17 ms from the target!', units='cm', win=Window(...), wrapWidth=15.0)
+18.9006 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+18.9006 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+18.9006 	EXP 	unnamed TextStim: autoDraw = True
+20.7072 	DATA 	Keypress: escape
+20.9043 	EXP 	New trial (rep=0, index=1): OrderedDict([('Signal', 0)])
+20.9169 	EXP 	unnamed TextStim: autoDraw = False
+20.9169 	EXP 	unnamed ShapeStim: autoDraw = False
+20.9169 	EXP 	unnamed ShapeStim: autoDraw = False
+20.9169 	EXP 	unnamed ShapeStim: autoDraw = False
+20.9169 	EXP 	unnamed ShapeStim: autoDraw = False
+20.9169 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+20.9169 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+21.3705 	DATA 	Keypress: escape
+21.6636 	EXP 	window1: mouseVisible = True
+21.6718 	DEBUG 	Saving data for OSARI ExperimentHandler
+21.6734 	INFO 	saved data to /Users/rpuri/Documents/GitHub/OSARI_private/data/s_0_OSARI_2020_Jul_21_1959.psydat
+21.6747 	INFO 	saved data to '/Users/rpuri/Documents/GitHub/OSARI_private/data/s_0_OSARI_2020_Jul_21_1959.csv'

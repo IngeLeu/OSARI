@@ -1,0 +1,408 @@
+11.5328 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_, error=invalid literal for int() with base 10: '03_'
+11.8275 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_c, error=invalid literal for int() with base 10: '03_c'
+11.9515 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_co, error=invalid literal for int() with base 10: '03_co'
+12.8116 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_c, error=invalid literal for int() with base 10: '03_c'
+12.9723 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_, error=invalid literal for int() with base 10: '03_'
+13.2991 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_n, error=invalid literal for int() with base 10: '03_n'
+13.3429 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_no, error=invalid literal for int() with base 10: '03_no'
+14.1359 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_noc, error=invalid literal for int() with base 10: '03_noc'
+14.2149 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_noco, error=invalid literal for int() with base 10: '03_noco'
+14.3836 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocou, error=invalid literal for int() with base 10: '03_nocou'
+14.5680 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocoun, error=invalid literal for int() with base 10: '03_nocoun'
+14.6605 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocount, error=invalid literal for int() with base 10: '03_nocount'
+14.9125 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocountd, error=invalid literal for int() with base 10: '03_nocountd'
+15.0180 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocountdo, error=invalid literal for int() with base 10: '03_nocountdo'
+15.1290 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocountdow, error=invalid literal for int() with base 10: '03_nocountdow'
+15.2269 	ERROR 	Error in handleLineEditChange: inputFieldName=Participant ID, type=<class 'int'>, value=03_nocountdown, error=invalid literal for int() with base 10: '03_nocountdown'
+20.2079 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1440, 900]. Using actual size
+21.4594 	DEBUG 	Read csv file with pandas: TestConditions.csv
+21.4624 	DEBUG 	Clearing unnamed columns from TestConditions.csv
+21.4629 	EXP 	Imported TestConditions.csv as conditions, 1 conditions, 3 params
+21.4657 	DEBUG 	Read csv file with pandas: practiceGoConditions.csv
+21.4676 	DEBUG 	Clearing unnamed columns from practiceGoConditions.csv
+21.4687 	EXP 	Imported practiceGoConditions.csv as conditions, 1 conditions, 3 params
+21.4719 	DEBUG 	Read csv file with pandas: practiceMixedConditions.csv
+21.4746 	DEBUG 	Clearing unnamed columns from practiceMixedConditions.csv
+21.4754 	EXP 	Imported practiceMixedConditions.csv as conditions, 1 conditions, 3 params
+21.4762 	EXP 	Created sequence: random, trialTypes=1, nReps=5, seed=None
+21.8021 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+21.9532 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='Do you understand the task? (Y/N)', units='cm', win=Window(...), wrapWidth=15.0)
+21.9843 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.0088 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.2388 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/instr_image.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([30.  , 18.75]), texRes=128, units='cm', win=Window(...))
+22.2694 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.2792 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='First lets practice!', units='cm', win=Window(...), wrapWidth=15.0)
+22.2885 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.3033 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.3151 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='Oops! You held the \nbutton for too long', units='cm', win=Window(...), wrapWidth=15.0)
+22.3286 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+22.3396 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='Correct!\nYou withheld your response', units='cm', win=Window(...), wrapWidth=15.0)
+22.3530 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='WrongKey - Please press the space key', units='cm', win=Window(...), wrapWidth=15.0)
+22.3603 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0.  , 0.45]), rgb=array([-1., -1., -1.]), text='1', units='norm', win=Window(...), wrapWidth=1)
+22.3634 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='skyblue', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.3651 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='white', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.3671 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='yellow', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.3687 	EXP 	Created unnamed ShapeStim = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0, fillColor='yellow', fillColorSpace='named', interpolate=True, lineColor='white', lineColorSpace='named', lineWidth=0, name='unnamed ShapeStim', opacity=1.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='cm', vertices=ndarray(...), win=Window(...), windingRule=None)
+22.3769 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/Spaceship.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([ 0.  , -8.49]), size=array([6.58333333, 1.5       ]), texRes=128, units='cm', win=Window(...))
+22.3851 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='Stimuli/Practice_Image.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([10.,  0.]), size=array([4.375     , 7.22916667]), texRes=128, units='cm', win=Window(...))
+24.0763 	DATA 	Keypress: space
+26.6134 	DATA 	Keypress: space
+26.6144 	EXP 	New trial (rep=0, index=0): None
+26.6149 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+26.6154 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+26.6169 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 0), ('fixedStopTime', 0.3), ('triggerTime', 0.5)])
+26.6340 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+26.6340 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+27.5066 	DATA 	Keypress: space
+28.3010 	DATA 	Keypress: space
+28.3028 	EXP 	window1: recordFrameIntervals = True
+28.3169 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+28.3169 	EXP 	unnamed ShapeStim: autoDraw = True
+28.3169 	EXP 	unnamed ShapeStim: autoDraw = True
+28.3169 	EXP 	unnamed ShapeStim: autoDraw = True
+28.3169 	EXP 	unnamed ShapeStim: autoDraw = True
+28.3348 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.484891735004785), (1.5, -7.484891735004785), (1.5, -7.5)]
+28.3521 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.2170547050084135), (1.5, -7.2170547050084135), (1.5, -7.5)]
+28.3672 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.958555699995705), (1.5, -6.958555699995705), (1.5, -7.5)]
+28.3839 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.732085535006481), (1.5, -6.732085535006481), (1.5, -7.5)]
+28.4013 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.482206205002731), (1.5, -6.482206205002731), (1.5, -7.5)]
+28.4171 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.220937180007459), (1.5, -6.220937180007459), (1.5, -7.5)]
+28.4345 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.984165149995752), (1.5, -5.984165149995752), (1.5, -7.5)]
+28.4508 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.722170154997221), (1.5, -5.722170154997221), (1.5, -7.5)]
+28.4676 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.477324690011519), (1.5, -5.477324690011519), (1.5, -7.5)]
+28.4845 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.2263739850079585), (1.5, -5.2263739850079585), (1.5, -7.5)]
+28.5003 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.972175690010991), (1.5, -4.972175690010991), (1.5, -7.5)]
+28.5174 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.735287905016085), (1.5, -4.735287905016085), (1.5, -7.5)]
+28.5346 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.480660145011134), (1.5, -4.480660145011134), (1.5, -7.5)]
+28.5510 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.220634694995388), (1.5, -4.220634694995388), (1.5, -7.5)]
+28.5679 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.9751345850092914), (1.5, -3.9751345850092914), (1.5, -7.5)]
+28.5840 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.721842005017825), (1.5, -3.721842005017825), (1.5, -7.5)]
+28.6009 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.4804277000077857), (1.5, -3.4804277000077857), (1.5, -7.5)]
+28.6176 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.2259892549993676), (1.5, -3.2259892549993676), (1.5, -7.5)]
+28.6345 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.9751768050139074), (1.5, -2.9751768050139074), (1.5, -7.5)]
+28.6506 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.722446979998713), (1.5, -2.722446979998713), (1.5, -7.5)]
+28.6671 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.479888580021216), (1.5, -2.479888580021216), (1.5, -7.5)]
+28.6844 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.2345044050164145), (1.5, -2.2345044050164145), (1.5, -7.5)]
+28.7009 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.9739927000066384), (1.5, -1.9739927000066384), (1.5, -7.5)]
+28.7171 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.7267782549990809), (1.5, -1.7267782549990809), (1.5, -7.5)]
+28.7342 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.4843662550012962), (1.5, -1.4843662550012962), (1.5, -7.5)]
+28.7502 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.227919700015482), (1.5, -1.227919700015482), (1.5, -7.5)]
+28.7671 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9885378800047331), (1.5, -0.9885378800047331), (1.5, -7.5)]
+28.7839 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.734136904995685), (1.5, -0.734136904995685), (1.5, -7.5)]
+28.8011 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.4801409000012793), (1.5, -0.4801409000012793), (1.5, -7.5)]
+28.8175 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.22489899500418709), (1.5, -0.22489899500418709), (1.5, -7.5)]
+28.8342 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.02108105498133206), (1.5, 0.02108105498133206), (1.5, -7.5)]
+28.8514 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.2729309049916626), (1.5, 0.2729309049916626), (1.5, -7.5)]
+28.8676 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.5297002149816397), (1.5, 0.5297002149816397), (1.5, -7.5)]
+28.8841 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.7730473900007926), (1.5, 0.7730473900007926), (1.5, -7.5)]
+28.9007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.0223886549990855), (1.5, 1.0223886549990855), (1.5, -7.5)]
+28.9179 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.2695220549974326), (1.5, 1.2695220549974326), (1.5, -7.5)]
+28.9339 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.5282883150009727), (1.5, 1.5282883150009727), (1.5, -7.5)]
+28.9507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.7688632049864825), (1.5, 1.7688632049864825), (1.5, -7.5)]
+28.9671 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.0201635149967476), (1.5, 2.0201635149967476), (1.5, -7.5)]
+28.9845 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.266358649992762), (1.5, 2.266358649992762), (1.5, -7.5)]
+29.0007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.5268867199863596), (1.5, 2.5268867199863596), (1.5, -7.5)]
+29.0175 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.7710589549840368), (1.5, 2.7710589549840368), (1.5, -7.5)]
+29.0343 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.0241027599802326), (1.5, 3.0241027599802326), (1.5, -7.5)]
+29.0506 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.2766815500033406), (1.5, 3.2766815500033406), (1.5, -7.5)]
+29.0672 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.5191883499808316), (1.5, 3.5191883499808316), (1.5, -7.5)]
+29.0847 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.769327764983027), (1.5, 3.769327764983027), (1.5, -7.5)]
+29.0849 	EXP 	window1: recordFrameIntervals = False
+29.0849 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+29.1032 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='You stopped the bar \n 49 ms from the target!', units='cm', win=Window(...), wrapWidth=15.0)
+29.1175 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+29.1175 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+29.1175 	EXP 	unnamed TextStim: autoDraw = True
+31.1469 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='The End!\nThanks for taking part!', units='norm', win=Window(...), wrapWidth=1)
+31.1476 	EXP 	New trial (rep=1, index=0): None
+31.1483 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+31.1494 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+31.1516 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 1), ('fixedStopTime', 0.3), ('triggerTime', 0.5)])
+31.1678 	EXP 	unnamed TextStim: autoDraw = False
+31.1678 	EXP 	unnamed ShapeStim: autoDraw = False
+31.1678 	EXP 	unnamed ShapeStim: autoDraw = False
+31.1678 	EXP 	unnamed ShapeStim: autoDraw = False
+31.1678 	EXP 	unnamed ShapeStim: autoDraw = False
+31.1678 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+31.1678 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+33.9707 	DATA 	Keypress: space
+34.2084 	DATA 	Keypress: space
+35.2071 	DATA 	Keypress: space
+35.2083 	EXP 	window1: recordFrameIntervals = True
+35.2178 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+35.2178 	EXP 	unnamed ShapeStim: autoDraw = True
+35.2178 	EXP 	unnamed ShapeStim: autoDraw = True
+35.2178 	EXP 	unnamed ShapeStim: autoDraw = True
+35.2178 	EXP 	unnamed ShapeStim: autoDraw = True
+35.2347 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.485522649996929), (1.5, -7.485522649996929), (1.5, -7.5)]
+35.2512 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.231573384999356), (1.5, -7.231573384999356), (1.5, -7.5)]
+35.2679 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.984044794992078), (1.5, -6.984044794992078), (1.5, -7.5)]
+35.2842 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.736053260003464), (1.5, -6.736053260003464), (1.5, -7.5)]
+35.3015 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.4896446000077415), (1.5, -6.4896446000077415), (1.5, -7.5)]
+35.3173 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.228229655000396), (1.5, -6.228229655000396), (1.5, -7.5)]
+35.3347 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.993380445008588), (1.5, -5.993380445008588), (1.5, -7.5)]
+35.3516 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.731958539992993), (1.5, -5.731958539992993), (1.5, -7.5)]
+35.3673 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.479725949992135), (1.5, -5.479725949992135), (1.5, -7.5)]
+35.3845 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.243664259998914), (1.5, -5.243664259998914), (1.5, -7.5)]
+35.4014 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.9856747449869), (1.5, -4.9856747449869), (1.5, -7.5)]
+35.4177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.7330900449853655), (1.5, -4.7330900449853655), (1.5, -7.5)]
+35.4347 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.488987635006415), (1.5, -4.488987635006415), (1.5, -7.5)]
+35.4507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.232349349988217), (1.5, -4.232349349988217), (1.5, -7.5)]
+35.4677 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.9937383350045277), (1.5, -3.9937383350045277), (1.5, -7.5)]
+35.4846 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.7376097499984464), (1.5, -3.7376097499984464), (1.5, -7.5)]
+35.5014 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.4842193100050647), (1.5, -3.4842193100050647), (1.5, -7.5)]
+35.5177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.2319604549886574), (1.5, -3.2319604549886574), (1.5, -7.5)]
+35.5338 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.987895334983696), (1.5, -2.987895334983696), (1.5, -7.5)]
+35.5507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.7467268050006535), (1.5, -2.7467268050006535), (1.5, -7.5)]
+35.5678 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.4939110599936978), (1.5, -2.4939110599936978), (1.5, -7.5)]
+35.5840 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.2364768450026897), (1.5, -2.2364768450026897), (1.5, -7.5)]
+35.6008 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.9942910449865305), (1.5, -1.9942910449865305), (1.5, -7.5)]
+35.6181 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.7418677449970712), (1.5, -1.7418677449970712), (1.5, -7.5)]
+35.6342 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.4823219949832858), (1.5, -1.4823219949832858), (1.5, -7.5)]
+35.6511 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.2413976500031279), (1.5, -1.2413976500031279), (1.5, -7.5)]
+35.6677 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9876937850024117), (1.5, -0.9876937850024117), (1.5, -7.5)]
+35.6846 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.7378392350094511), (1.5, -0.7378392350094511), (1.5, -7.5)]
+35.7007 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.48414015500588015), (1.5, -0.48414015500588015), (1.5, -7.5)]
+35.7182 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.24368384000103127), (1.5, -0.24368384000103127), (1.5, -7.5)]
+35.7353 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.7519 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.7681 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.7847 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8014 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8174 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8343 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8513 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8676 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.8844 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9008 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9346 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9515 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9681 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+35.9849 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0011 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0180 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0339 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0513 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0678 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.0849 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1009 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1344 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1507 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1681 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.1839 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.2008 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.2175 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.2346 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.2515 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.009999999999999787), (1.5, 0.009999999999999787), (1.5, -7.5)]
+36.2516 	EXP 	window1: recordFrameIntervals = False
+36.2516 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+36.2677 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+36.2677 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+36.2677 	EXP 	unnamed TextStim: autoDraw = True
+38.2771 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='The End!\nThanks for taking part!', units='norm', win=Window(...), wrapWidth=1)
+38.2775 	EXP 	New trial (rep=2, index=0): None
+38.2779 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+38.2785 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+38.2799 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 0), ('fixedStopTime', 0.3), ('triggerTime', 0.5)])
+38.2843 	EXP 	unnamed TextStim: autoDraw = False
+38.2843 	EXP 	unnamed ShapeStim: autoDraw = False
+38.2843 	EXP 	unnamed ShapeStim: autoDraw = False
+38.2843 	EXP 	unnamed ShapeStim: autoDraw = False
+38.2843 	EXP 	unnamed ShapeStim: autoDraw = False
+38.2843 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+38.2843 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+39.5119 	DATA 	Keypress: y
+40.7235 	DATA 	Keypress: space
+40.7244 	EXP 	window1: recordFrameIntervals = True
+40.7348 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+40.7348 	EXP 	unnamed ShapeStim: autoDraw = True
+40.7348 	EXP 	unnamed ShapeStim: autoDraw = True
+40.7348 	EXP 	unnamed ShapeStim: autoDraw = True
+40.7348 	EXP 	unnamed ShapeStim: autoDraw = True
+40.7514 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.482715549997229), (1.5, -7.482715549997229), (1.5, -7.5)]
+40.7678 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.238089549975703), (1.5, -7.238089549975703), (1.5, -7.5)]
+40.7851 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.992155684986065), (1.5, -6.992155684986065), (1.5, -7.5)]
+40.8017 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.731886529989643), (1.5, -6.731886529989643), (1.5, -7.5)]
+40.8181 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.482393449980227), (1.5, -6.482393449980227), (1.5, -7.5)]
+40.8348 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.237615604988823), (1.5, -6.237615604988823), (1.5, -7.5)]
+40.8518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.98625709499378), (1.5, -5.98625709499378), (1.5, -7.5)]
+40.8676 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.730738349977619), (1.5, -5.730738349977619), (1.5, -7.5)]
+40.8851 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.493766744996028), (1.5, -5.493766744996028), (1.5, -7.5)]
+40.9014 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.231130544991393), (1.5, -5.231130544991393), (1.5, -7.5)]
+40.9184 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.9799202949836765), (1.5, -4.9799202949836765), (1.5, -7.5)]
+40.9355 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.732539334984031), (1.5, -4.732539334984031), (1.5, -7.5)]
+40.9518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.475633389986106), (1.5, -4.475633389986106), (1.5, -7.5)]
+40.9686 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.230700054988338), (1.5, -4.230700054988338), (1.5, -7.5)]
+40.9851 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.9793943899733133), (1.5, -3.9793943899733133), (1.5, -7.5)]
+41.0019 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.7308689449966916), (1.5, -3.7308689449966916), (1.5, -7.5)]
+41.0184 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.479749189993745), (1.5, -3.479749189993745), (1.5, -7.5)]
+41.0349 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.231778204992443), (1.5, -3.231778204992443), (1.5, -7.5)]
+41.0518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.9836623049889024), (1.5, -2.9836623049889024), (1.5, -7.5)]
+41.0684 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.730657244985414), (1.5, -2.730657244985414), (1.5, -7.5)]
+41.0852 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.48352838998675), (1.5, -2.48352838998675), (1.5, -7.5)]
+41.1018 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.2309570399941006), (1.5, -2.2309570399941006), (1.5, -7.5)]
+41.1178 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.981965649986014), (1.5, -1.981965649986014), (1.5, -7.5)]
+41.1348 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.7415737299891045), (1.5, -1.7415737299891045), (1.5, -7.5)]
+41.1518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.4873168449978404), (1.5, -1.4873168449978404), (1.5, -7.5)]
+41.1679 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.231816339979778), (1.5, -1.231816339979778), (1.5, -7.5)]
+41.1847 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9894988399921569), (1.5, -0.9894988399921569), (1.5, -7.5)]
+41.2014 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.7379902399882123), (1.5, -0.7379902399882123), (1.5, -7.5)]
+41.2183 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.4858463299772122), (1.5, -0.4858463299772122), (1.5, -7.5)]
+41.2346 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.2336503849912699), (1.5, -0.2336503849912699), (1.5, -7.5)]
+41.2511 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.010404460006393279), (1.5, 0.010404460006393279), (1.5, -7.5)]
+41.2684 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.2583271000073726), (1.5, 0.2583271000073726), (1.5, -7.5)]
+41.2843 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.5164554700038568), (1.5, 0.5164554700038568), (1.5, -7.5)]
+41.3012 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.7559334550003403), (1.5, 0.7559334550003403), (1.5, -7.5)]
+41.3177 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.0092713500105308), (1.5, 1.0092713500105308), (1.5, -7.5)]
+41.3350 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.2594175000028915), (1.5, 1.2594175000028915), (1.5, -7.5)]
+41.3518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.515466705002618), (1.5, 1.515466705002618), (1.5, -7.5)]
+41.3681 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.7679609100266678), (1.5, 1.7679609100266678), (1.5, -7.5)]
+41.3845 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.015581060020631), (1.5, 2.015581060020631), (1.5, -7.5)]
+41.3846 	EXP 	window1: recordFrameIntervals = False
+41.3846 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+41.3930 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+41.4018 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+41.4018 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+41.4018 	EXP 	unnamed TextStim: autoDraw = True
+43.4126 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='The End!\nThanks for taking part!', units='norm', win=Window(...), wrapWidth=1)
+43.4130 	EXP 	New trial (rep=3, index=0): None
+43.4134 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+43.4140 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+43.4243 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+43.4347 	EXP 	unnamed TextStim: autoDraw = False
+43.4347 	EXP 	unnamed ShapeStim: autoDraw = False
+43.4347 	EXP 	unnamed ShapeStim: autoDraw = False
+43.4347 	EXP 	unnamed ShapeStim: autoDraw = False
+43.4347 	EXP 	unnamed ShapeStim: autoDraw = False
+45.0009 	DATA 	Keypress: space
+45.0028 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 0), ('fixedStopTime', 0.3), ('triggerTime', 0.5)])
+45.0184 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+45.0184 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+45.6575 	DATA 	Keypress: space
+45.6585 	EXP 	window1: recordFrameIntervals = True
+45.6678 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+45.6678 	EXP 	unnamed ShapeStim: autoDraw = True
+45.6678 	EXP 	unnamed ShapeStim: autoDraw = True
+45.6678 	EXP 	unnamed ShapeStim: autoDraw = True
+45.6678 	EXP 	unnamed ShapeStim: autoDraw = True
+45.6855 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.485464644989625), (1.5, -7.485464644989625), (1.5, -7.5)]
+45.7017 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.220589244982184), (1.5, -7.220589244982184), (1.5, -7.5)]
+45.7180 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.9783670549825185), (1.5, -6.9783670549825185), (1.5, -7.5)]
+45.7354 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.7349039449820705), (1.5, -6.7349039449820705), (1.5, -7.5)]
+45.7524 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.472221349997417), (1.5, -6.472221349997417), (1.5, -7.5)]
+45.7682 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.217785455002959), (1.5, -6.217785455002959), (1.5, -7.5)]
+45.7855 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.98235770998348), (1.5, -5.98235770998348), (1.5, -7.5)]
+45.8018 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.721785690004472), (1.5, -5.721785690004472), (1.5, -7.5)]
+45.8186 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.476147099982191), (1.5, -5.476147099982191), (1.5, -7.5)]
+45.8357 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.225686204996455), (1.5, -5.225686204996455), (1.5, -7.5)]
+45.8521 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.9683556549937204), (1.5, -4.9683556549937204), (1.5, -7.5)]
+45.8679 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.721328454990944), (1.5, -4.721328454990944), (1.5, -7.5)]
+45.8855 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.484971985004668), (1.5, -4.484971985004668), (1.5, -7.5)]
+45.9019 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.220087704981998), (1.5, -4.220087704981998), (1.5, -7.5)]
+45.9185 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.974487649995572), (1.5, -3.974487649995572), (1.5, -7.5)]
+45.9351 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.7266211399876195), (1.5, -3.7266211399876195), (1.5, -7.5)]
+45.9518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.477390290001713), (1.5, -3.477390290001713), (1.5, -7.5)]
+45.9684 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.2264497849994225), (1.5, -3.2264497849994225), (1.5, -7.5)]
+45.9853 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.97804903499331), (1.5, -2.97804903499331), (1.5, -7.5)]
+46.0022 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.724769204989789), (1.5, -2.724769204989789), (1.5, -7.5)]
+46.0183 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.4713738899865714), (1.5, -2.4713738899865714), (1.5, -7.5)]
+46.0352 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.228581939982396), (1.5, -2.228581939982396), (1.5, -7.5)]
+46.0520 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.9744450849905117), (1.5, -1.9744450849905117), (1.5, -7.5)]
+46.0683 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.723638859986968), (1.5, -1.723638859986968), (1.5, -7.5)]
+46.0860 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.479588410004217), (1.5, -1.479588410004217), (1.5, -7.5)]
+46.1023 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.2143428399960978), (1.5, -1.2143428399960978), (1.5, -7.5)]
+46.1186 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9685190450020311), (1.5, -0.9685190450020311), (1.5, -7.5)]
+46.1355 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.7252659499974836), (1.5, -0.7252659499974836), (1.5, -7.5)]
+46.1520 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.4719999499977714), (1.5, -0.4719999499977714), (1.5, -7.5)]
+46.1687 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.22380206000183556), (1.5, -0.22380206000183556), (1.5, -7.5)]
+46.1858 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.028950399999084553), (1.5, 0.028950399999084553), (1.5, -7.5)]
+46.1859 	EXP 	window1: recordFrameIntervals = False
+46.1859 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+46.1997 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+46.2188 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+46.2188 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+46.2188 	EXP 	unnamed TextStim: autoDraw = True
+48.2286 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='The End!\nThanks for taking part!', units='norm', win=Window(...), wrapWidth=1)
+48.2290 	EXP 	New trial (rep=4, index=0): None
+48.2294 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+48.2300 	DEBUG 	Using /Users/rebeccahirst/Documents/GitHub/OSARI_private/OSARI_time_v1.8.py as origin file
+48.2378 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text=str(...), units='cm', win=Window(...), wrapWidth=15.0)
+48.2525 	EXP 	unnamed TextStim: autoDraw = False
+48.2525 	EXP 	unnamed ShapeStim: autoDraw = False
+48.2525 	EXP 	unnamed ShapeStim: autoDraw = False
+48.2525 	EXP 	unnamed ShapeStim: autoDraw = False
+48.2525 	EXP 	unnamed ShapeStim: autoDraw = False
+49.6806 	DATA 	Keypress: space
+49.6825 	EXP 	New trial (rep=0, index=0): OrderedDict([('Signal', 0), ('fixedStopTime', 0.3), ('triggerTime', 0.5)])
+49.7016 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+49.7016 	EXP 	unnamed ShapeStim: fillColor = 'yellow'
+50.3571 	DATA 	Keypress: space
+50.3583 	EXP 	window1: recordFrameIntervals = True
+50.3687 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.49), (1.5, -7.49), (1.5, -7.5)]
+50.3687 	EXP 	unnamed ShapeStim: autoDraw = True
+50.3687 	EXP 	unnamed ShapeStim: autoDraw = True
+50.3687 	EXP 	unnamed ShapeStim: autoDraw = True
+50.3687 	EXP 	unnamed ShapeStim: autoDraw = True
+50.3857 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.485497704994705), (1.5, -7.485497704994705), (1.5, -7.5)]
+50.4020 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -7.231659259998414), (1.5, -7.231659259998414), (1.5, -7.5)]
+50.4191 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.987063154994976), (1.5, -6.987063154994976), (1.5, -7.5)]
+50.4350 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.730421825015801), (1.5, -6.730421825015801), (1.5, -7.5)]
+50.4523 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.491215205007611), (1.5, -6.491215205007611), (1.5, -7.5)]
+50.4685 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -6.232450850004389), (1.5, -6.232450850004389), (1.5, -7.5)]
+50.4853 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.990729915003831), (1.5, -5.990729915003831), (1.5, -7.5)]
+50.5022 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.737999054992761), (1.5, -5.737999054992761), (1.5, -7.5)]
+50.5183 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.48452047500381), (1.5, -5.48452047500381), (1.5, -7.5)]
+50.5353 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -5.242784060003251), (1.5, -5.242784060003251), (1.5, -7.5)]
+50.5521 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.988917355005688), (1.5, -4.988917355005688), (1.5, -7.5)]
+50.5685 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.735414805011024), (1.5, -4.735414805011024), (1.5, -7.5)]
+50.5854 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.490174810009412), (1.5, -4.490174810009412), (1.5, -7.5)]
+50.6024 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -4.236692255001108), (1.5, -4.236692255001108), (1.5, -7.5)]
+50.6186 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.9825094099908167), (1.5, -3.9825094099908167), (1.5, -7.5)]
+50.6360 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.7393005500164147), (1.5, -3.7393005500164147), (1.5, -7.5)]
+50.6522 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.476004950000279), (1.5, -3.476004950000279), (1.5, -7.5)]
+50.6686 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -3.233896819994916), (1.5, -3.233896819994916), (1.5, -7.5)]
+50.6854 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.988921709995557), (1.5, -2.988921709995557), (1.5, -7.5)]
+50.7023 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.736319610014325), (1.5, -2.736319610014325), (1.5, -7.5)]
+50.7187 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.481726905000178), (1.5, -2.481726905000178), (1.5, -7.5)]
+50.7360 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -2.236642460004296), (1.5, -2.236642460004296), (1.5, -7.5)]
+50.7523 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.97605266501545), (1.5, -1.97605266501545), (1.5, -7.5)]
+50.7690 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.73225867000132), (1.5, -1.73225867000132), (1.5, -7.5)]
+50.7854 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.4830309550163658), (1.5, -1.4830309550163658), (1.5, -7.5)]
+50.8026 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -1.2354155600062224), (1.5, -1.2354155600062224), (1.5, -7.5)]
+50.8185 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.9768172249935017), (1.5, -0.9768172249935017), (1.5, -7.5)]
+50.8358 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.7398485750147668), (1.5, -0.7398485750147668), (1.5, -7.5)]
+50.8525 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.4804618100044902), (1.5, -0.4804618100044902), (1.5, -7.5)]
+50.8684 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, -0.22877571501543592), (1.5, -0.22877571501543592), (1.5, -7.5)]
+50.8857 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.008492289996647528), (1.5, 0.008492289996647528), (1.5, -7.5)]
+50.9023 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.2692749999985242), (1.5, 0.2692749999985242), (1.5, -7.5)]
+50.9183 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.5243555349968663), (1.5, 0.5243555349968663), (1.5, -7.5)]
+50.9358 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 0.7570342000033268), (1.5, 0.7570342000033268), (1.5, -7.5)]
+50.9530 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.0198204899895789), (1.5, 1.0198204899895789), (1.5, -7.5)]
+50.9689 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.2780280449876589), (1.5, 1.2780280449876589), (1.5, -7.5)]
+50.9860 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.5158480799871175), (1.5, 1.5158480799871175), (1.5, -7.5)]
+51.0024 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 1.7741065749921834), (1.5, 1.7741065749921834), (1.5, -7.5)]
+51.0188 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.0201233000059435), (1.5, 2.0201233000059435), (1.5, -7.5)]
+51.0360 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.2650115899957743), (1.5, 2.2650115899957743), (1.5, -7.5)]
+51.0518 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.522504844989962), (1.5, 2.522504844989962), (1.5, -7.5)]
+51.0686 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 2.7615963399946484), (1.5, 2.7615963399946484), (1.5, -7.5)]
+51.0852 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.0116568849987377), (1.5, 3.0116568849987377), (1.5, -7.5)]
+51.1025 	EXP 	unnamed ShapeStim: vertices = [(-1.5, -7.5), (-1.5, 3.2621836449905093), (1.5, 3.2621836449905093), (1.5, -7.5)]
+51.1026 	EXP 	window1: recordFrameIntervals = False
+51.1027 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+51.1108 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([-8.,  0.]), rgb=array([1., 1., 1.]), text='You stopped the bar \n 83 ms from the target!', units='cm', win=Window(...), wrapWidth=15.0)
+51.1187 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+51.1187 	EXP 	unnamed ShapeStim: fillColor = 'Green'
+51.1187 	EXP 	unnamed TextStim: autoDraw = True
+53.1294 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='The End!\nThanks for taking part!', units='norm', win=Window(...), wrapWidth=1)
+53.1352 	EXP 	unnamed TextStim: autoDraw = False
+53.1352 	EXP 	unnamed ShapeStim: autoDraw = False
+53.1352 	EXP 	unnamed ShapeStim: autoDraw = False
+53.1352 	EXP 	unnamed ShapeStim: autoDraw = False
+53.1352 	EXP 	unnamed ShapeStim: autoDraw = False
+54.4094 	DATA 	Keypress: space
+54.4198 	DEBUG 	Saving data for OSARI ExperimentHandler
+54.4225 	INFO 	saved data to /Users/rebeccahirst/Documents/GitHub/OSARI_private/data/s_03_nocountdown_OSARI_2020_Jul_19_1819.psydat
+54.4256 	INFO 	saved data to '/Users/rebeccahirst/Documents/GitHub/OSARI_private/data/s_03_nocountdown_OSARI_2020_Jul_19_1819.csv'
+54.7110 	EXP 	window1: mouseVisible = True
